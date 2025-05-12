@@ -37,4 +37,11 @@ Runtime:
 number of vertices (nodes) = V
 number of edges (connections) = E
 
-Since each node is visited once and each edge is considered at most once to find the shortest path, the worst case runtime is $\Theta$(V + E).
+Since each node is visited once and each edge is traveled at most once to find the shortest path, the worst case runtime is $\Theta$(V + E).
+
+“I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.”
+
+For this assignment, I asked Chat GPT for help with the readability of my conclusion.
