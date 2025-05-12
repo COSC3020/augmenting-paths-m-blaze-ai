@@ -32,3 +32,9 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+Runtime:
+number of vertices (nodes) = V
+number of edges (connections) = E
+
+Since each node is visited once and each edge is considered at most once to find the shortest path, the worst case runtime is $\Theta$(V + E).
